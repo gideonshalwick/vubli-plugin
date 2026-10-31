@@ -1,0 +1,19 @@
+{
+  "name": "vubli",
+  "version": "1.0.0",
+  "description": "Plan content and manage Vubli ideas, scripts and social posts from your AI assistant.",
+  "author": {
+    "name": "Vubli",
+    "email": "support@vubli.ai"
+  },
+  "homepage": "https://vubli.ai",
+  "repository": "https://github.com/gideonshalwick/vubli-plugin",
+  "keywords": [
+    "video",
+    "content",
+    "social-media",
+    "publishing"
+  ],
+  "logo": "assets/vubli-logo.png",
+  "mcpServers": "mcp.json"
+}
